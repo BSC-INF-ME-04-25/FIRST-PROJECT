@@ -1,1 +1,5 @@
-bsc-inf-me-04-25
+* commit bfd39dd911467ef729a9079106544db3000274fe
+  Author: BSC-INF-ME-04-25 <bsc-inf-me@unima.ac.mw>
+  Date:   Thu Mar 5 23:05:10 2026 +0200
+  
+      initial commit: add homapage HTML structure
